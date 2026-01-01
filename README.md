@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm @uncletree465 👋
+### AI Enthusiast & Aspiring Developer
 
-<!--
-**uncletree465/uncletree465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate learner exploring the world of Artificial Intelligence and Automation. Currently focusing on integrating multiple AI models to create smart workflows and experimental projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 AI Models I'm Working With
+I enjoy experimenting with various AI architectures to understand their unique strengths:
+
+* **LLMs:** Exploring **GPT-4o**, **Claude 3.5 Sonnet**, and **Gemini 1.5 Pro** for reasoning and coding.
+* **Local Models:** Running **Ollama (Llama 3 / Mistral)** for privacy-focused tasks.
+* **Image Gen:** Creating assets using **Midjourney** and **Stable Diffusion**.
+* **Automation:** Building workflows with **n8n** (as seen in my recent backups!) and LangChain.
+
+---
+
+## 🚀 Current Projects
+* **n8n-backups:** Automating my workflow backups to stay organized.
+* **AI Chatbot Experiment:** Integrating multiple API providers into a single interface.
+* **Prompt Engineering Lab:** A collection of high-performing prompts for developer productivity.
+
+---
+
+## 🛠️ My Tech Stack
+- **Languages:** Python (Primary for AI), Markdown
+- **Tools:** GitHub, VS Code, n8n, Docker
+- **AI Tools:** ChatGPT, Claude, Perplexity, Gemini
+
+---
+
+## 📊 My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=uncletree465&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uncletree465&layout=compact&theme=radical)
+
+---
+
+## 📫 How to reach me
+- **GitHub:** [uncletree465](https://github.com/uncletree465)
+- **Learning Path:** Currently diving deep into *Agentic Workflows* and *RAG (Retrieval-Augmented Generation)*.
+
+*"The best way to predict the future is to invent it."*
