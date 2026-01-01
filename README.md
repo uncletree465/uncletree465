@@ -28,10 +28,16 @@ I enjoy experimenting with various AI architectures to understand their unique s
 - **AI Tools:** ChatGPT, Claude, Perplexity, Gemini
 
 ---
+---
 
-## 📊 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=uncletree465&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uncletree465&layout=compact&theme=radical)
+## 📈 My GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=uncletree465&show_icons=true&theme=radical&hide_border=false" alt="uncletree465's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncletree465&layout=compact&theme=radical&hide_border=false" alt="Most Used Languages" />
+</p>
+
+---
 
 ---
 
